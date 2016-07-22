@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\LaravelWechat;
+namespace Feicanfly\LaravelWechat;
 
 use Doctrine\Common\Cache\Cache as CacheInterface;
 use Illuminate\Support\Facades\Cache;
